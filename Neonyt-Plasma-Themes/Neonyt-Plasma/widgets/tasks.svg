@@ -25,14 +25,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.48511594"
-     inkscape:cx="1002.4547"
-     inkscape:cy="668.72066"
+     inkscape:cx="510.94429"
+     inkscape:cy="378.48896"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1190,7 +1190,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7-5"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#ffb380;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#ffa466;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="translate(412,-474)"
@@ -1303,7 +1303,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-79"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#e599b2;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#e085a3;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        id="north-progress-bottomright"
@@ -1789,7 +1789,7 @@
        transform="matrix(1,0,0,-1,412,1588.7244)"
        id="south-attention-bottom">
       <path
-         style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.816502"
+         style="opacity:1;fill:#ffa466;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.816502"
          d="m 45,828.36222 h 40 v 2 H 45 Z"
          id="path7270-7-7-0-4"
          inkscape:connector-curvature="0" />
@@ -1902,7 +1902,7 @@
        id="south-progress-bottom"
        transform="matrix(1,0,0,-1,488,1588.7244)">
       <path
-         style="opacity:1;fill:#e599b2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.816503"
+         style="opacity:1;fill:#e085a3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.816503"
          d="m 45,828.36222 h 40 v 2 H 45 Z"
          id="path7270-7-0-6"
          inkscape:connector-curvature="0" />
@@ -2546,7 +2546,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7-5-3-5"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#ffb380;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#ffa466;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="matrix(1,0,0,-1,412,1776.7244)"
@@ -2659,7 +2659,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-79-8-1"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#e599b2;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#e085a3;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        id="progress-topright"
@@ -3224,7 +3224,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7-5-3-58"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#ffb380;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#ffa466;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="matrix(0,1,1,0,-822.36218,590.36222)"
@@ -3337,7 +3337,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-79-8-5"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#e599b2;fill-opacity:1;stroke:none;stroke-width:0.816496" />
+         style="opacity:1;fill:#e085a3;fill-opacity:1;stroke:none;stroke-width:0.816496" />
     </g>
     <g
        id="west-progress-bottomright"
@@ -3902,7 +3902,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-7-5-3-58-3"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#ffb380;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#ffa466;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        transform="rotate(90,483.99999,1074.3622)"
@@ -4015,7 +4015,7 @@
          inkscape:label="#normal-top"
          id="normal-top-6-8-0-79-8-5-3"
          d="m 45,878.36218 v -2 h 40 v 2 z"
-         style="opacity:1;fill:#e599b2;fill-opacity:1;stroke:none;stroke-width:0.816497" />
+         style="opacity:1;fill:#e085a3;fill-opacity:1;stroke:none;stroke-width:0.816497" />
     </g>
     <g
        id="east-progress-bottomleft"
