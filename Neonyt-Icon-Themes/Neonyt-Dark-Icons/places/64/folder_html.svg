@@ -9,7 +9,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="folder-html.svg"
+   sodipodi:docname="folder_html.svg"
    id="svg12"
    version="1.1"
    viewBox="0 0 64 64">
@@ -36,7 +36,7 @@
      inkscape:zoom="5.2609472"
      showgrid="false"
      id="namedview14"
-     inkscape:window-height="1011"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -141,8 +141,8 @@
        xlink:href="#linearGradient847"
        id="linearGradient849"
        gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="247.5"
+       x1="329.12827"
+       y1="249.58569"
        x2="495"
        y2="247.5" />
     <linearGradient
@@ -150,8 +150,8 @@
        xlink:href="#linearGradient847"
        id="linearGradient851"
        gradientUnits="userSpaceOnUse"
-       x1="0"
-       y1="247.5"
+       x1="333.5834"
+       y1="255.71245"
        x2="495"
        y2="247.5" />
   </defs>
