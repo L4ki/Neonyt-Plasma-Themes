@@ -4,7 +4,7 @@ Neonyt Themes For Plasma Desktop
 Changelog: 02.01.2021.
 ----------------------
 
-Plasma Rhemes
+Plasma Themes
 --------------
 
 Fixed widget: tasks.svg
