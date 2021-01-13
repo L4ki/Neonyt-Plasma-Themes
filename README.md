@@ -22,3 +22,23 @@ Icons
 Fixed icons: folder-black, dialog-password
 
 Added icons: folder-KDE, folder-Neon, folder-openSUSE, folder-Reddit, folder-Manjaro, onlyoffice
+
+Changelog: 13.01.2021.
+----------------------
+
+GTK Theme
+---------
+
+Correction of all icons: combo-entry.png
+
+Icons
+-----
+
+Icon correction: folder_html.svg
+
+Plasma Themes
+-------------
+
+Added icon: kate.svg
+
+Icon correction: clipper.svg, preferences.svg, redshift.svg
