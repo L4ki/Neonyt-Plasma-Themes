@@ -45,12 +45,12 @@
      inkscape:pageopacity="0.10196078"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1007"
      id="namedview32"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="48.764034"
-     inkscape:cy="26.674602"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="106.23122"
+     inkscape:cy="20.025223"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -65,7 +65,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
@@ -82,48 +82,48 @@
        orientation="0,1"
        position="23,19"
        id="guide3820"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="24,3"
        id="guide3822"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="11,10"
        id="guide3824"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="21,11"
        id="guide3826"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="preferences-desktop-display-randr">
     <path
        sodipodi:nodetypes="ssccsssccccc"
        inkscape:connector-curvature="0"
-       d="M 2.9,2 C 2.4014,2 2,2.446 2,3 V 13 H 20 V 3 C 20,2.446 19.5986,2 19.1,2 Z m 0,1 h 16.2 v 9 H 2.9 Z"
-       style="fill:#00a4cc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.948683;paint-order:fill markers stroke"
+       d="M 2.9,2.7 C 2.4014,2.7 2,3.137891 2,3.6818182 V 13.5 H 20 V 3.6818182 C 20,3.137891 19.5986,2.7 19.099998,2.7 Z m 0,0.9818182 H 19.099998 V 12.518182 H 2.9 Z"
+       style="fill:#00a4cc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.940019;paint-order:fill markers stroke"
        id="path4" />
     <circle
        style="opacity:1;fill:#277eff;fill-opacity:1"
        cx="11"
-       cy="14.009995"
+       cy="14.91033"
        r="0.33333001"
        id="circle6" />
     <rect
        style="opacity:1;fill:#d3dae3;fill-opacity:1"
        x="7"
-       y="18.00001"
+       y="18.299999"
        width="8"
        height="1"
        id="rect8" />
     <path
        sodipodi:nodetypes="sssssssssccccc"
        inkscape:connector-curvature="0"
-       d="M 2.9,2 C 2.4014,2 2,2.446 2,3 v 12 c 0,0.554 0.4014,1 0.9,1 H 19.1 C 19.5986,16 20,15.554 20,15 V 3 C 20,2.446 19.5986,2 19.1,2 Z m 0,1 H 19.1 V 15 H 2.9 Z"
+       d="M 2.9,2.7 C 2.4014,2.7 2,3.146 2,3.7 v 12 c 0,0.554 0.4014,1 0.9,1 h 16.2 c 0.4986,0 0.9,-0.446 0.9,-1 v -12 c 0,-0.554 -0.4014,-1 -0.9,-1 z m 0,1 h 16.2 v 12 H 2.9 Z"
        style="opacity:1;fill:#d3dae3;fill-opacity:1;fill-rule:evenodd;stroke-width:0.948683;paint-order:fill markers stroke"
        id="path14" />
     <rect
@@ -142,7 +142,7 @@
        y="0" />
     <path
        style="color:#dedede;fill:#277eff;fill-opacity:1;stroke:none"
-       d="m 4.1236997,7.0116447 4,4.0000003 h -4 z"
+       d="m 4.1236997,7.612 4,4 h -4 z"
        id="rect3018"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -152,7 +152,7 @@
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path3028"
-       d="m 18.034677,7.9407503 -4,-4 h 4 z"
+       d="m 18.034677,8.741 -4,-4 h 4 z"
        style="color:#dedede;fill:#00a4cc;fill-opacity:1;stroke:none" />
   </g>
   <g
