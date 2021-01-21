@@ -42,3 +42,21 @@ Plasma Themes
 Added icon: kate.svg
 
 Icon correction: clipper.svg, preferences.svg, redshift.svg
+
+Changelog: 21.01.2021.
+----------------------
+
+GTK Theme
+---------
+
+Correction of gtkrc file
+
+Icons
+-----
+
+Added github.svg folder
+
+Plasma Themes
+--------------
+
+Icon correction: vlc.svg, amarok.svg, device.svg, printer.svg
