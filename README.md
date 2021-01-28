@@ -60,3 +60,11 @@ Plasma Themes
 --------------
 
 Icon correction: vlc.svg, amarok.svg, device.svg, printer.svg
+
+Changelog: 28.01.2021.
+----------------------
+
+Plasma Themes
+--------------
+
+Fixed icons: update.svg, ktorrent.svg, printer.svg, kteatime.svg 
