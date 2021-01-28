@@ -68,3 +68,8 @@ Plasma Themes
 --------------
 
 Fixed icons: update.svg, ktorrent.svg, printer.svg, kteatime.svg 
+
+GTK-Theme
+---------
+
+Correction of gtkrc file
