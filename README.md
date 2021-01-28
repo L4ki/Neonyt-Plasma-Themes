@@ -73,3 +73,9 @@ GTK-Theme
 ---------
 
 Correction of gtkrc file
+
+Icons
+------
+
+Added Pop_OS.svg folder
+
