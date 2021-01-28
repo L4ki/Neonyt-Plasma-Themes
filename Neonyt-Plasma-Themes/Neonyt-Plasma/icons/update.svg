@@ -11,9 +11,9 @@
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    id="svg846"
    version="1.1"
-   viewBox="0 0 5.8208332 5.8208335"
-   height="22"
-   width="22">
+   viewBox="0 0 8.4666665 8.4666699"
+   height="32.000011"
+   width="32">
   <defs
      id="defs840" />
   <sodipodi:namedview
@@ -25,27 +25,27 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="1007"
+     inkscape:window-height="1016"
      inkscape:window-width="1920"
      units="px"
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="-7.150854"
-     inkscape:cx="47.328921"
-     inkscape:zoom="3.2125109"
+     inkscape:cy="-1.3162267"
+     inkscape:cx="85.499052"
+     inkscape:zoom="4.5431765"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:lockguides="false">
+     inkscape:lockguides="true">
     <inkscape:grid
        id="grid1394"
        type="xygrid"
-       originx="3.1999998e-06"
-       originy="2.2516407e-05" />
+       originx="3.1999997e-06"
+       originy="-5.8208376" />
   </sodipodi:namedview>
   <metadata
      id="metadata843">
@@ -103,7 +103,7 @@
       }
 </style>
   <g
-     transform="translate(0,-291.17914)"
+     transform="translate(0,-297)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -129,7 +129,7 @@
          sodipodi:nodetypes="ccssssscsscccssssscscccccsc" />
     </g>
     <g
-       id="g1031">
+       id="22-22-update-high">
       <rect
          style="opacity:0.003;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10795;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect1396-3"
@@ -150,7 +150,7 @@
          sodipodi:nodetypes="ccssssscsscccssssscscccccscc" />
     </g>
     <g
-       id="g1018">
+       id="22-22-update-medium">
       <g
          id="g1011">
         <rect
@@ -174,7 +174,7 @@
       </g>
     </g>
     <g
-       id="g1046">
+       id="22-22-update-low">
       <g
          id="g1039">
         <rect
@@ -217,7 +217,7 @@
         <path
            d="m 2.7130598,301.28469 h 0.6788985 v 1.54932 c 0,0.0513 0.041929,0.0943 0.093662,0.0943 h 1.0253589 c 0.051744,0 0.093564,-0.0687 0.093564,-0.12073 0,-0.0511 -0.041817,-0.12092 -0.093564,-0.12092 h -0.825911 v -1.49633 c 0,-0.051 -0.041946,-0.0943 -0.093678,-0.0943 H 3.0450896 l 1.1993188,-1.1994 1.1993937,1.19942 H 4.8974314 c -0.051745,0 -0.093679,0.0425 -0.093679,0.0943 v 1.64312 c 0,0.051 0.094869,0.0944 0.1466018,0.0944 0.051744,0 0.1465791,-0.0421 0.1465791,-0.0944 V 301.284 h 0.6788249 c 0.037881,0 0.072009,-0.0232 0.086533,-0.0569 0.014494,-0.0348 0.00652,-0.0745 -0.020321,-0.10184 l -1.5313505,-1.53145 c -0.036534,-0.0365 -0.095868,-0.0365 -0.1324519,0 l -1.5313459,1.53133 c -0.026795,0.026 -0.034814,0.0673 -0.020315,0.1016 0.014498,0.0344 0.048649,0.0573 0.086554,0.0573 z"
            id="path2-1"
-           style="fill:#d3dae3;fill-opacity:1;stroke-width:0.0372769"
+           style="fill:#d3dae3;fill-opacity:1;fill-rule:nonzero;stroke-width:0.0372769"
            sodipodi:nodetypes="ccssssscsscccssssscscccccccc" />
       </g>
     </g>
@@ -268,7 +268,7 @@
          sodipodi:nodetypes="cccssccsscccccccccccccccccccccccccccsscccccscc"
          style="fill:#d3dae3;fill-opacity:1;stroke-width:0.00676095" />
       <path
-         d="m 19.646392,301.28468 h 0.6789 v 1.54932 c 0,0.0513 0.04193,0.0943 0.09366,0.0943 h 1.025359 c 0.05174,0 0.09368,-0.0687 0.09368,-0.12072 0,-0.0511 -0.04204,-0.12423 -0.09368,-0.12092 h -0.825911 v -1.49633 c 0,-0.051 -0.04195,-0.0943 -0.09368,-0.0943 h -0.546299 l 1.199317,-1.1994 1.199395,1.19936 -0.546372,6e-5 c -0.05175,1e-5 -0.09368,0.0425 -0.09368,0.0943 v 1.64312 c 0,0.051 0.09488,0.0944 0.146605,0.0944 0.05174,0 0.146579,-0.0421 0.146579,-0.0944 V 301.284 h 0.678825 c 0.03788,0 0.07201,-0.0232 0.08653,-0.0569 0.01449,-0.0348 0.0065,-0.0745 -0.02032,-0.10184 l -1.531351,-1.53145 c -0.03653,-0.0365 -0.09587,-0.0365 -0.132452,0 l -1.531346,1.53133 c -0.02679,0.026 -0.03481,0.0673 -0.02032,0.1016 0.0145,0.0344 0.04865,0.0573 0.08655,0.0573 z"
+         d="m 19.646392,301.28468 h 0.6789 v 1.54932 c 0,0.0513 0.04193,0.0943 0.09366,0.0943 h 1.025359 c 0.05174,0 0.09368,-0.0687 0.09368,-0.12072 0,-0.0511 -0.04204,-0.12423 -0.09368,-0.12092 H 20.6184 v -1.49633 c 0,-0.051 -0.04195,-0.0943 -0.09368,-0.0943 h -0.546299 l 1.199317,-1.1994 1.199395,1.19936 -0.546372,6e-5 c -0.05175,1e-5 -0.09368,0.0425 -0.09368,0.0943 v 1.64312 c 0,0.051 0.09488,0.0944 0.146605,0.0944 0.05174,0 0.146579,-0.0421 0.146579,-0.0944 V 301.284 h 0.678825 c 0.03788,0 0.07201,-0.0232 0.08653,-0.0569 0.01449,-0.0348 0.0065,-0.0745 -0.02032,-0.10184 l -1.531351,-1.53145 c -0.03653,-0.0365 -0.09587,-0.0365 -0.132452,0 l -1.531346,1.53133 c -0.02679,0.026 -0.03481,0.0673 -0.02032,0.1016 0.0145,0.0344 0.04865,0.0573 0.08655,0.0573 z"
          id="path2-1-6-6"
          style="fill:#ff7f2a;fill-opacity:1;stroke-width:0.0372769"
          sodipodi:nodetypes="ccssssscsscccssssscscccccccc" />
