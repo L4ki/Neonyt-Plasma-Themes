@@ -79,3 +79,11 @@ Icons
 
 Added Pop_OS.svg folder
 
+Changelog: 05.02.2021.
+----------------------
+
+Plasma Themes
+--------------
+
+Fixed Icons: cantata.svg, input.svg, system.svg
+
