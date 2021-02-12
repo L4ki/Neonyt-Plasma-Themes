@@ -87,3 +87,17 @@ Plasma Themes
 
 Fixed Icons: cantata.svg, input.svg, system.svg
 
+Changelog: 12.02.2021.
+---------------------
+
+Plasma Themes
+-------------
+
+Added icons: konv_message.svg, konversation
+
+IconsThemes
+-----------
+
+Icon correction: folder-black.svg 
+
+Added icons: folder-KaOS.svg
