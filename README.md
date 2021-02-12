@@ -101,3 +101,8 @@ IconsThemes
 Icon correction: folder-black.svg 
 
 Added icons: folder-KaOS.svg
+
+GTK Theme
+---------
+
+Icon correction: scrollbar-vert-slider-hover.png
