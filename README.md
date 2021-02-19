@@ -106,3 +106,22 @@ GTK Theme
 ---------
 
 Icon correction: scrollbar-vert-slider-hover.png
+
+Changelog: 19.02.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icon: radio-unchecked-hover.png
+
+Icons
+------
+
+Icons correction (actions 22) 
+
+Plasma Themes
+---------------
+
+Fixed widget: scrollbar.svg
+------
