@@ -124,4 +124,3 @@ Plasma Themes
 ---------------
 
 Fixed widget: scrollbar.svg
-------
