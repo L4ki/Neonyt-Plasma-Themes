@@ -124,3 +124,23 @@ Plasma Themes
 ---------------
 
 Fixed widget: scrollbar.svg
+
+Changelog: 27.02.2021.
+----------------------
+
+GTK Theme
+----------
+
+Gtkrc file correction
+
+Icons
+-----
+
+Icon correction compass.svg
+
+Plasma Themes
+--------------
+
+Fixed icons: mail.svg, kmail.svg
+
+Added icons: documents.svg, quassel.svg, kalarm.svg 
