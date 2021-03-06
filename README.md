@@ -144,3 +144,25 @@ Plasma Themes
 Fixed icons: mail.svg, kmail.svg
 
 Added icons: documents.svg, quassel.svg, kalarm.svg 
+
+Changelog: 06.03.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Correction: gtk.css (GTK-3.0) 
+
+Icons
+-----
+
+Added icons: emblems (8x8, 16x16, 22x22)
+
+Correction Icons: compass 
+
+Plasme Theme
+-------------
+
+Added icons: compass.svg, pamac.svg, manjaro.svg
+
+Correction widget: actionbutton.svg 
