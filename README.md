@@ -166,3 +166,24 @@ Plasme Theme
 Added icons: compass.svg, pamac.svg, manjaro.svg
 
 Correction widget: actionbutton.svg 
+
+Changelog: 13.03.2021.
+----------------------
+
+GTK-3 Theme
+-----------
+
+Color correction in gtkrc file 
+
+Icons
+-----
+
+Changed icons: bookmark.svg (actions)
+
+Plasma Themes
+--------------
+
+Added widget: margins-highlight.svg
+
+Added icons: videoCard.svg, plasmavault_error.svg, plasmavault.svg 
+
