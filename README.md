@@ -187,3 +187,16 @@ Added widget: margins-highlight.svg
 
 Added icons: videoCard.svg, plasmavault_error.svg, plasmavault.svg 
 
+Changelog: 20.03.21.
+--------------------
+
+Icons
+------
+
+Added Icons: action(48 and 64)
+
+Plasma Themes
+--------------
+
+Added Icons: activities.svg, choqok_offline,  choqok.svg, utilities.svg
+
