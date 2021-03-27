@@ -216,4 +216,4 @@ Added icons: image-missing.svg (16,64)
 Plasma Themes
 --------------
 
-Added icons: sftware.svg, user.svg, kpackagekit.svg, korgac.svg
+Added icons: software.svg, user.svg, kpackagekit.svg, korgac.svg
