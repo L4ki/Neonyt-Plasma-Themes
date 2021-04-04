@@ -217,3 +217,23 @@ Plasma Themes
 --------------
 
 Added icons: software.svg, user.svg, kpackagekit.svg, korgac.svg
+
+Changelog: 04.04.2021.
+----------------------
+
+GTK-Theme
+---------
+
+Fixed: checkbox-checked-hover.png
+
+Icons
+-----
+
+Added Icons: folder-Github, folder-KDE, folder-Neon, folder-Manjaro, folder-openSUSE, folder-reddit, folder-Pop_OS (16,22,24)
+
+Plasma Themes
+-------------
+
+Fixed widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
+Addedicon: slc.svg
