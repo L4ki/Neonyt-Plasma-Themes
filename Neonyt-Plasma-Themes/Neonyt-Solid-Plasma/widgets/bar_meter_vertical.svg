@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="bar_meter_vertical.svg"
    id="svg2318"
    height="156"
@@ -20,12 +20,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="82.755094"
-     inkscape:cx="86.254859"
-     inkscape:zoom="15.999999"
+     inkscape:cy="70.990818"
+     inkscape:cx="22.802364"
+     inkscape:zoom="3.9999998"
      showgrid="false"
      id="namedview76"
-     inkscape:window-height="1016"
+     inkscape:window-height="1007"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -89,7 +89,7 @@
        x1="105.50379" />
   </defs>
   <rect
-     style="opacity:0.01;fill:#cecece;fill-opacity:1;stroke:none"
+     style="opacity:0.001;fill:#cecece;fill-opacity:1;stroke:none"
      id="background"
      transform="matrix(0,1,-1,0,0,0)"
      y="-41"
@@ -99,14 +99,14 @@
      height="16"
      width="132" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.01"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.001"
      id="label0"
      y="0"
      x="0"
      height="12"
      width="65" />
   <rect
-     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.01"
+     style="fill:#2e75bc;fill-opacity:1;fill-rule:evenodd;stroke:none;opacity:0.001"
      id="label1"
      y="144"
      x="0"
