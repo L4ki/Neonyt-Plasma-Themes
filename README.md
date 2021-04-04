@@ -236,4 +236,4 @@ Plasma Themes
 
 Fixed widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
-Addedicon: slc.svg
+Added icon: slc.svg
