@@ -237,3 +237,21 @@ Plasma Themes
 Fixed widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
 Added icon: slc.svg
+
+Changelog: 13.04.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: button-active, button-hover, button
+
+Icons Themes
+-------------
+
+Added new icons: devices (16 and Symbolic) 
+
+Plasma Themes
+--------------
+
+Fixed icon: input.svg
