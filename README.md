@@ -255,3 +255,21 @@ Plasma Themes
 --------------
 
 Fixed icon: input.svg
+
+Changelog: 27.04.2021.
+----------------------
+
+GTK-Theme
+-----------
+
+Icon correction: line.png, menu-border.png, menubar-item-active.png
+
+Icons
+-----
+
+Added new icons: applets (256)
+
+Plasma Themes
+--------------
+
+Added widgets: containment-controls, configuration-icons, toolbar.svg
