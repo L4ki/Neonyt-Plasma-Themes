@@ -273,3 +273,21 @@ Plasma Themes
 --------------
 
 Added widgets: containment-controls, configuration-icons, toolbar.svg
+
+Changelog: 04.05.2021.
+-----------------------
+
+GTK-Theme
+----------
+
+Fixed icon: menuborder.png, menubar-item-active.png
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Themes
+--------------
+
+Added icons: qbittorrent.svg, kget.svg
