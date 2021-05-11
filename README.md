@@ -291,3 +291,21 @@ Plasma Themes
 --------------
 
 Added icons: qbittorrent.svg, kget.svg
+
+Changelog: 11.05.2021.
+-----------------------
+
+GTK Theme
+----------
+
+Fixed icons: progressbar-horz.png, progressbar-vert.png
+
+Icons
+-----
+
+Fixed some icons: actions (16,22.24.32)
+
+Plasma Themes
+--------------
+
+Added icons: go.svg, fcitx.svg, kgpg.svg
