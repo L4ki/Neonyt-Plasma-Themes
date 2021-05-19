@@ -309,3 +309,23 @@ Plasma Themes
 --------------
 
 Added icons: go.svg, fcitx.svg, kgpg.svg
+
+Changelog: 19.05.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: entry-background, entry-background-insensitive
+
+Icons
+-----
+
+Added new icons: emblems (16, 22, 24)
+
+Plasma Themes
+--------------
+
+Fixed widget: configuration-icons.svg
+
+Added icons: ime.svg, kopete.svg
