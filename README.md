@@ -329,3 +329,21 @@ Plasma Themes
 Fixed widget: configuration-icons.svg
 
 Added icons: ime.svg, kopete.svg
+
+Changelog: 29.05.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: treeview-separator-ltr.png, treeview-separator-rtl.png
+
+Icons
+------
+
+Added new icons: actions (32)
+
+Plasma Themes
+--------------
+
+Added icons: kruler.svg, audacious.svg, elisa.svg
