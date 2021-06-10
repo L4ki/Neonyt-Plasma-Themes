@@ -347,3 +347,21 @@ Plasma Themes
 --------------
 
 Added icons: kruler.svg, audacious.svg, elisa.svg
+
+Changelog: 10.06.2021.
+----------------------
+
+GTK Theme
+---------
+
+Fixed icons: checkbox-checked-hover, checkbox-checked-insensitive, checkbox-checked
+
+Icons
+-----
+
+Added new icons: actions (24)
+
+Plasma Themes
+--------------
+
+Added icopns: juk.svg, kdf.svg
