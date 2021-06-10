@@ -364,4 +364,4 @@ Added new icons: actions (24)
 Plasma Themes
 --------------
 
-Added icopns: juk.svg, kdf.svg
+Added icons: juk.svg, kdf.svg
