@@ -365,3 +365,23 @@ Plasma Themes
 --------------
 
 Added icons: juk.svg, kdf.svg
+
+Changelog: 23.06.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icon: border.png
+
+Icons
+-----
+
+Added new icons: actions (16)
+
+Plasma Themes
+--------------
+
+Enable "Adaptive Transparency" for Plasma 5.22
+
+Fixed icon: elise.svg
