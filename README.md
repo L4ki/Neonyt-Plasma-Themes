@@ -385,3 +385,21 @@ Plasma Themes
 Enable "Adaptive Transparency" for Plasma 5.22
 
 Fixed icon: elise.svg
+
+Changelog: 02.07.2021.
+----------------------
+
+GTK Theme
+----------
+
+Fixed icons: scrollbar-vert-slider-active-rtl, scrollbar-vert-slider-hover-rtl
+
+Icons
+-----
+
+Added new icons: status (16)
+
+Plasma Themes
+--------------
+
+Added icons: emblem.svg, kleopatra.svg
