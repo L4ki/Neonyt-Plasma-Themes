@@ -410,7 +410,7 @@ Changelog: 25.07.2021.
 Icons
 ------
 
-Added new isons: mimetypes (16)
+Added new icons: mimetypes (16)
 
 Plasma Theme
 -------------
