@@ -403,3 +403,16 @@ Plasma Themes
 --------------
 
 Added icons: emblem.svg, kleopatra.svg
+
+Changelog: 25.07.2021.
+----------------------
+
+Icons
+------
+
+Added new isons: mimetypes (16)
+
+Plasma Theme
+-------------
+
+Fixed icon: juk.svg
