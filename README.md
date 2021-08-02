@@ -416,3 +416,16 @@ Plasma Theme
 -------------
 
 Fixed icon: juk.svg
+
+Changelog: 02.08.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (22)
+
+Plasma Theme
+------------
+
+Fixed: backgound.svg (dialogs)
