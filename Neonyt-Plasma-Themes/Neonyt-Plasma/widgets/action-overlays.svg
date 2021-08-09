@@ -32,7 +32,7 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="72.719622"
+     inkscape:cy="44.43535"
      inkscape:cx="50.596164"
      inkscape:zoom="2.828427"
      inkscape:pageshadow="2"
@@ -41,7 +41,8 @@
      bordercolor="#000000"
      pagecolor="#ffffff"
      id="base"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
     <inkscape:grid
        spacingy="1"
        spacingx="1"
@@ -75,7 +76,7 @@
        id="add-normal">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#2a7fff;fill-opacity:1;stroke:none"
+         style="fill:#00a4cc;fill-opacity:1;stroke:none"
          d="M 9,4 V 9 H 4 v 3 h 5 v 5 h 3 v -5 h 5 V 9 H 12 V 4 Z"
          transform="translate(212.36642,432.30276)"
          id="rect3073" />
@@ -107,7 +108,7 @@
          style="fill:#2b3237;fill-opacity:1;stroke:none" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#2a7fff;fill-opacity:1;stroke:none"
+         style="fill:#00a4cc;fill-opacity:1;stroke:none"
          d="m 221.36642,436.30276 v 5 h -5 v 3 h 5 v 5 h 3 v -5 h 5 v -3 h -5 v -5 z"
          id="path3854" />
     </g>
@@ -131,14 +132,14 @@
       <path
          id="path3848"
          d="m 221.36642,436.30276 v 5 h -5 v 3 h 5 v 5 h 3 v -5 h 5 v -3 h -5 v -5 z"
-         style="fill:#2a7fff;fill-opacity:1;stroke:none"
+         style="fill:#00a4cc;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
     </g>
     <g
        transform="translate(-4.5605469e-6,9.9999951)"
        id="remove-normal">
       <rect
-         style="fill:#ff557f;fill-opacity:1;stroke:none"
+         style="fill:#ff0066;fill-opacity:1;stroke:none"
          id="rect3894"
          width="13"
          height="3"
@@ -179,7 +180,7 @@
          height="3"
          width="13"
          id="rect3898"
-         style="fill:#ff557f;fill-opacity:1;stroke:none" />
+         style="fill:#ff0066;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="remove-pressed">
@@ -202,7 +203,7 @@
            transform="matrix(0.9047619,0,0,0.9047619,217.86642,393.30276)" />
       </g>
       <rect
-         style="fill:#ff557f;fill-opacity:1;stroke:none"
+         style="fill:#ff0066;fill-opacity:1;stroke:none"
          id="rect3918"
          width="13"
          height="3"
@@ -233,7 +234,7 @@
            sketch:type="MSLayerGroup"
            id="path3960">
           <path
-             style="fill:#00b2b2;fill-opacity:1"
+             style="fill:#0873ff;fill-opacity:1"
              inkscape:connector-curvature="0"
              sketch:type="MSShapeGroup"
              id="path1074"
@@ -270,7 +271,7 @@
          id="path4011"
          sketch:type="MSShapeGroup"
          inkscape:connector-curvature="0"
-         style="fill:#00b2b2;fill-opacity:1" />
+         style="fill:#0873ff;fill-opacity:1" />
     </g>
     <g
        inkscape:label="#open-hover"
@@ -303,7 +304,7 @@
          id="path4011-2"
          sketch:type="MSShapeGroup"
          inkscape:connector-curvature="0"
-         style="fill:#00b2b2;fill-opacity:1" />
+         style="fill:#0873ff;fill-opacity:1" />
     </g>
   </g>
 </svg>
