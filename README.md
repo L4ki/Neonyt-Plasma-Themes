@@ -441,4 +441,4 @@ Added new icons: actions (24)
 Plasma Theme
 -------------
 
-Fixed widgets: action-overlays.svg, arrows.svg
+Fixed widgets: action-overlays.svg, arrows.svg, actionbutton.svg
