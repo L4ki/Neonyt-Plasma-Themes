@@ -429,3 +429,16 @@ Plasma Theme
 ------------
 
 Fixed: backgound.svg (dialogs)
+
+Changelog: 09.08.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (24)
+
+Plasma Theme
+-------------
+
+Fixed widgets: action-overlays.svg, arrows.svg
