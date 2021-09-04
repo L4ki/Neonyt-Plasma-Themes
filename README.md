@@ -456,3 +456,16 @@ Plasma Theme
 
 Fixed widget: busywidget.svg
 
+Changelog: 04.09.2021.
+---------------------
+
+Icons
+-----
+
+Added new icons: apps (16, 32, 48)
+
+Plasma Theme
+-------------
+
+Fixed icons: compass.svg, computer.svg
+
