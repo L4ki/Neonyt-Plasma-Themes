@@ -469,3 +469,16 @@ Plasma Theme
 
 Fixed icons: compass.svg, computer.svg
 
+Changelog: 11.09.2021.
+-----------------------
+
+Icons
+------
+
+Added new icons: status(16, 22, 24, 32)
+
+Plasma Theme
+------------
+
+Fixed icons: preferences.svg, video.svg
+
