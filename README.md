@@ -482,3 +482,16 @@ Plasma Theme
 
 Fixed icons: preferences.svg, video.svg
 
+Changelog:20.09.2021.
+---------------------
+
+Icons
+------
+
+Added new icons: mimetypes
+
+Plasma Theme
+-------------
+
+Fixed widgets: listitem.svg, scrollbar.svg
+
