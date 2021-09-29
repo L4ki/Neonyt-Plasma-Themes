@@ -495,3 +495,16 @@ Plasma Theme
 
 Fixed widgets: listitem.svg, scrollbar.svg
 
+Changelog:29.09.2021.
+---------------------
+
+Icons
+------
+
+Added new icons: status (22, 24)
+
+Plasma Theme
+-----------
+
+Fixed icons: device.svg, document.svg
+
