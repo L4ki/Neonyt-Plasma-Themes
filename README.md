@@ -509,6 +509,7 @@ Plasma Theme
 Fixed icons: device.svg, document.svg
 
 Changelog: 08.10.2021.
+----------------------
 
 Icons
 ------
