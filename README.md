@@ -521,3 +521,15 @@ Plasma Theme
 
 Fixed widgets: viewitem.svg, tabbar.svg
 
+Changelog: 16.10.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (16)
+
+Plasma Theme
+------------
+
+Fixed widgets: system.svg
