@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="95"
    height="85"
    id="svg2"
    version="1.1"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="slider.svg"
    inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-ydpi="90"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,17 +24,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="49.239091"
-     inkscape:cy="40.795534"
+     inkscape:cx="49.143922"
+     inkscape:cy="40.835417"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:document-rotation="0">
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        enabled="true"
@@ -583,7 +584,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -629,14 +629,12 @@
          x="59"
          y="125"
          transform="translate(0,902.36218)" />
-      <ellipse
-         style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"
+      <circle
+         style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.09546"
          id="path3363"
-         transform="matrix(1,0,0,0.83333333,0,923.69551)"
-         cx="67"
-         cy="134"
-         rx="5"
-         ry="6" />
+         cx="66.901588"
+         cy="1035.438"
+         r="6" />
       <circle
          transform="translate(-690,789.33093)"
          id="path4755"
@@ -645,7 +643,7 @@
          cy="246"
          r="4" />
       <circle
-         style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.125"
+         style="fill:#6e85a3;fill-opacity:1;stroke:none;stroke-width:1.125"
          id="path4757"
          cx="67.012589"
          cy="1035.356"
