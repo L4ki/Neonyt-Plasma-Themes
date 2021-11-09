@@ -562,3 +562,16 @@ Plasma Theme
 
 Fixed widgets: arrows.svg, tasks.svg
 
+Changelog: 09.11.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: apps
+
+Plasma Theme
+-------------
+
+Fixed widgets: plasmoidheading.svg, slider.svg
+
