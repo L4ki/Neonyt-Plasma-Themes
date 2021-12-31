@@ -640,6 +640,19 @@ Plasma Theme
 
 Fixed widget: tabbar.svg
 
+Changelog: 31.12.2021.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (22)
+
+Plasma Theme
+-------------
+
+Fixed widget: listitem.svg
+
 
 
 
