@@ -667,5 +667,20 @@ Plasma Theme
 Fixed widget: tooltip.svg
 
 
+Changelog: 19.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: actions (48)
+
+Plasma Theme
+-------------
+
+Fixed widget: arrows.svg
+
+
+
 
 
