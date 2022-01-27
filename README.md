@@ -680,6 +680,19 @@ Plasma Theme
 
 Fixed widget: arrows.svg
 
+Changelog: 29.01.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: status (16)
+
+Plasma Theme
+-------------
+
+Update widget: lineedit.svg
+
 
 
 
