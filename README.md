@@ -691,6 +691,8 @@ Added new icons: status (16)
 Plasma Theme
 -------------
 
+Added: opaque, solid, translucent
+
 Update widget: lineedit.svg
 
 
