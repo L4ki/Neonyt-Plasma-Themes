@@ -695,6 +695,20 @@ Added: opaque, solid, translucent
 
 Update widget: lineedit.svg
 
+Changelog: 05.02.2022.
+----------------------
+
+Icons
+------
+
+Added new icons: status (22)
+
+Plasma Theme
+-------------
+
+Update widget: slider.svg
+
+
 
 
 
