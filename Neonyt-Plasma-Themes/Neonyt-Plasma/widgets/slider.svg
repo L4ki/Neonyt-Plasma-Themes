@@ -24,13 +24,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="49.143922"
-     inkscape:cy="40.835417"
+     inkscape:cx="12.551145"
+     inkscape:cy="52.060737"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -575,6 +575,40 @@
        id="linearGradient4715"
        xlink:href="#linearGradient3704"
        inkscape:collect="always" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5773"
+       id="radialGradient6137"
+       cx="12"
+       cy="12"
+       fx="12"
+       fy="12"
+       r="12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66666667,0,0,0.66666667,25.000003,1029.3621)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5773">
+      <stop
+         style="stop-color:#4bc8ff;stop-opacity:1;"
+         offset="0"
+         id="stop5769" />
+      <stop
+         style="stop-color:#4bc8ff;stop-opacity:0.51461445"
+         offset="1"
+         id="stop5771" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5773"
+       id="radialGradient6137-2"
+       cx="12"
+       cy="12"
+       fx="12"
+       fy="12"
+       r="12"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66666667,0,0,0.66666667,46.000003,1029.361)" />
   </defs>
   <metadata
      id="metadata7">
@@ -592,35 +626,33 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <circle
-       style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:0.912871"
-       id="path4137"
-       cx="12.120887"
-       cy="985.72125"
-       r="5" />
     <g
        id="horizontal-slider-line" />
     <g
-       transform="translate(-634.87911,230.35908)"
-       id="g4741">
+       id="vertical-slider-focus">
       <circle
-         transform="translate(-110,509.3622)"
+         style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:0.912871"
+         id="path4137"
+         cx="12.120887"
+         cy="985.72125"
+         r="5" />
+      <circle
          id="path4733"
          style="fill:#393939;fill-opacity:1;stroke:none"
-         cx="757"
-         cy="246"
+         cx="12.12089"
+         cy="985.72125"
          r="4" />
-      <circle
-         style="fill:#d3dae3;fill-opacity:1;stroke:none"
+      <ellipse
+         style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.04554"
          id="path4735"
-         transform="matrix(1.0483107,0,0,1.0427863,-146.57118,498.81465)"
-         cx="757"
-         cy="246"
-         r="4" />
+         cx="12.12091"
+         cy="985.69916"
+         rx="4.193243"
+         ry="4.171145" />
     </g>
     <g
        id="horizontal-slider-handle"
-       transform="translate(-55.301586,1.9242376)">
+       transform="translate(-55,2)">
       <rect
          style="opacity:0.7;fill:#000000;fill-opacity:0.00392157;stroke:none"
          id="rect4143"
@@ -630,10 +662,10 @@
          y="125"
          transform="translate(0,902.36218)" />
       <circle
-         style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.09546"
+         style="opacity:1;fill:#00a4cc;fill-opacity:1;stroke:none;stroke-width:1.09546"
          id="path3363"
-         cx="66.901588"
-         cy="1035.438"
+         cx="67"
+         cy="1035.3622"
          r="6" />
       <circle
          transform="translate(-690,789.33093)"
@@ -643,14 +675,14 @@
          cy="246"
          r="4" />
       <circle
-         style="fill:#6e85a3;fill-opacity:1;stroke:none;stroke-width:1.125"
+         style="fill:#007b99;fill-opacity:1;stroke:none;stroke-width:1.125"
          id="path4757"
-         cx="67.012589"
-         cy="1035.356"
+         cx="67"
+         cy="1035.3622"
          r="4.5" />
     </g>
     <g
-       transform="matrix(0,-1,1,0,-1023.3622,1063.3622)"
+       transform="rotate(-90,20,1043.3622)"
        id="vertical-slider-line" />
     <g
        transform="translate(-55,-22.968753)"
@@ -663,26 +695,21 @@
          width="16"
          id="rect2932"
          style="opacity:0.7;fill:#000000;fill-opacity:0.00392157;stroke:none" />
-      <path
+      <ellipse
          transform="matrix(1,0,0,0.83333333,0,923.69551)"
          id="path2934"
          style="opacity:1;fill:#d3dae3;fill-opacity:1;stroke:none"
-         d="m 72,134 c 0,3.31371 -2.238576,6 -5,6 -2.761424,0 -5,-2.68629 -5,-6 0,-3.31371 2.238576,-6 5,-6 2.761424,0 5,2.68629 5,6 z"
-         sodipodi:type="arc"
-         sodipodi:ry="6"
-         sodipodi:rx="5"
-         sodipodi:cy="134"
-         sodipodi:cx="67" />
-      <path
+         cx="67"
+         cy="134"
+         rx="5"
+         ry="6" />
+      <circle
          style="fill:#ececec;fill-opacity:1;stroke:none"
          id="path2936"
          transform="translate(-690,789.33093)"
-         d="m 761,246 c 0,2.20914 -1.79086,4 -4,4 -2.20914,0 -4,-1.79086 -4,-4 0,-2.20914 1.79086,-4 4,-4 2.20914,0 4,1.79086 4,4 z"
-         sodipodi:type="arc"
-         sodipodi:ry="4"
-         sodipodi:rx="4"
-         sodipodi:cy="246"
-         sodipodi:cx="757" />
+         cx="757"
+         cy="246"
+         r="4" />
       <circle
          id="path2938"
          style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.09999"
@@ -999,6 +1026,78 @@
          id="path1248"
          d="m 39.783649,61.898975 v 1 h -6 c 0,0 -0.02048,-1 6,-1 z"
          style="opacity:1;fill:#00cdff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.79707;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.772549;paint-order:normal" />
+    </g>
+    <g
+       id="horizontal-slider-hover">
+      <rect
+         style="opacity:0.7;fill:#000000;fill-opacity:0.00392157;stroke:none"
+         id="rect4143-6"
+         width="16"
+         height="16"
+         x="25"
+         y="1029.3622" />
+      <circle
+         style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.09546"
+         id="path3363-7"
+         cx="33"
+         cy="1037.3622"
+         r="6" />
+      <circle
+         id="path4755-5"
+         style="fill:#ececec;fill-opacity:1;stroke:none"
+         cx="33"
+         cy="1037.3309"
+         r="4" />
+      <circle
+         style="fill:#00a4cc;fill-opacity:1;stroke:none;stroke-width:1.125"
+         id="path4757-3"
+         cx="33"
+         cy="1037.3622"
+         r="4.5" />
+      <circle
+         cx="33"
+         cy="1037.3622"
+         r="8"
+         fill="#4bc8ff"
+         opacity="0.3"
+         id="circle16"
+         style="opacity:0.5;fill:url(#radialGradient6137);fill-opacity:1;stroke-width:0.45833" />
+    </g>
+    <g
+       id="horizontal-slider-focus">
+      <rect
+         style="opacity:0.7;fill:#000000;fill-opacity:0.00392157;stroke:none"
+         id="rect4143-6-6"
+         width="16"
+         height="16"
+         x="46"
+         y="1029.3622" />
+      <circle
+         style="fill:#d3dae3;fill-opacity:1;stroke:none;stroke-width:1.09546"
+         id="path3363-7-2"
+         cx="54"
+         cy="1037.3622"
+         r="6" />
+      <circle
+         id="path4755-5-9"
+         style="fill:#ececec;fill-opacity:1;stroke:none"
+         cx="54"
+         cy="1037.3309"
+         r="4" />
+      <circle
+         style="fill:#00a4cc;fill-opacity:1;stroke:none;stroke-width:1.125"
+         id="path4757-3-1"
+         cx="54"
+         cy="1037.3622"
+         r="4.5" />
+      <circle
+         cx="54"
+         cy="1037.3622"
+         r="8"
+         fill="#4bc8ff"
+         opacity="0.3"
+         id="circle16-9"
+         style="opacity:0.5;fill:url(#radialGradient6137-2);fill-opacity:1;stroke-width:0.45833" />
     </g>
   </g>
 </svg>
