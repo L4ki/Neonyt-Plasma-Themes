@@ -708,6 +708,22 @@ Plasma Theme
 
 Update widget: slider.svg
 
+Changelog: 12.02.2022.
+----------------------
+
+Icons
+------
+
+Dark- Added new icons status (symbolic)
+
+Light - Added new icons status (24)
+
+Plasma Theme
+-------------
+
+Update widget: button.svg
+
+
 
 
 
